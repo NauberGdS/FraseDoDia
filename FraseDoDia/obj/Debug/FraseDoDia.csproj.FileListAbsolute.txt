@@ -1,0 +1,14 @@
+C:\Users\nauber.gdsouza\source\repos\FraseDoDia\FraseDoDia\bin\Debug\FraseDoDia.exe.config
+C:\Users\nauber.gdsouza\source\repos\FraseDoDia\FraseDoDia\bin\Debug\FraseDoDia.exe
+C:\Users\nauber.gdsouza\source\repos\FraseDoDia\FraseDoDia\bin\Debug\FraseDoDia.pdb
+C:\Users\nauber.gdsouza\source\repos\FraseDoDia\FraseDoDia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nauber.gdsouza\source\repos\FraseDoDia\FraseDoDia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nauber.gdsouza\source\repos\FraseDoDia\FraseDoDia\obj\Debug\FraseDoDia.csproj.AssemblyReference.cache
+C:\Users\nauber.gdsouza\source\repos\FraseDoDia\FraseDoDia\obj\Debug\FraseDoDia.csproj.SuggestedBindingRedirects.cache
+C:\Users\nauber.gdsouza\source\repos\FraseDoDia\FraseDoDia\obj\Debug\FraseDoDia.Form1.resources
+C:\Users\nauber.gdsouza\source\repos\FraseDoDia\FraseDoDia\obj\Debug\FraseDoDia.Properties.Resources.resources
+C:\Users\nauber.gdsouza\source\repos\FraseDoDia\FraseDoDia\obj\Debug\FraseDoDia.csproj.GenerateResource.cache
+C:\Users\nauber.gdsouza\source\repos\FraseDoDia\FraseDoDia\obj\Debug\FraseDoDia.csproj.CoreCompileInputs.cache
+C:\Users\nauber.gdsouza\source\repos\FraseDoDia\FraseDoDia\obj\Debug\FraseDoDia.csproj.CopyComplete
+C:\Users\nauber.gdsouza\source\repos\FraseDoDia\FraseDoDia\obj\Debug\FraseDoDia.exe
+C:\Users\nauber.gdsouza\source\repos\FraseDoDia\FraseDoDia\obj\Debug\FraseDoDia.pdb
